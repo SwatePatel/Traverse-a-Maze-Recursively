@@ -1,6 +1,5 @@
 //Student: Swate Patel
 //Section: 008
-//Student ID: 31585795
 
 import java.util.Scanner;
 import java.io.File;
