@@ -1,6 +1,3 @@
-//Student: Swate Patel
-//Section: 008
-
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
