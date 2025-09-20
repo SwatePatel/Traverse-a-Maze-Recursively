@@ -16,4 +16,4 @@ All messages, and a print out of the solution, if one is found,
 should be to the screen.
 
 Here is the actual maze  (Links to an external site.)file that will be used to test
-your programs.
+your programs. 
